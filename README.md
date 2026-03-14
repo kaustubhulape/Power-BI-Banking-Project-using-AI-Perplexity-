@@ -125,6 +125,7 @@ CALCULATE(
 ## 🚀 How to Run
 
 ### Prerequisites
+- Perplexity.ai (raw data source)
 - SQL Server (2016 or later recommended)
 - SQL Server Management Studio (SSMS)
 - Power BI Desktop
